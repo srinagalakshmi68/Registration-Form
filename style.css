@@ -1,0 +1,15 @@
+.title {
+    background-color: rgba(238, 232, 232, 0.913);
+    /* opacity: 0.2; */
+    text-align: center;
+}
+
+.registration-form {
+    width: 60%;
+    margin: auto;
+}
+
+.submit-btn {
+    text-align: center;
+    margin-bottom: 20px;
+}
